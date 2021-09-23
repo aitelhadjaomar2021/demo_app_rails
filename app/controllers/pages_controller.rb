@@ -10,4 +10,6 @@ class PagesController < ApplicationController
 
   def contact
   end
+  def add_how_it_works_page
+  end
 end
